@@ -9,7 +9,7 @@ Our team created this web app to help families and households manage their money
 
 ## Installation
 
-Just visit our website at: https://muthukonar.github.io/group4-project1
+Just visit our website at: https://calebcolangelo.github.io/Budget-Management/
 ## Usage
 
 First, sign in using first and last name. 
